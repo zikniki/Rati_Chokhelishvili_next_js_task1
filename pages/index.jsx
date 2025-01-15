@@ -1,13 +1,12 @@
 import React from 'react'
 import Main from './organisms/main'
 
-const Index = () => {
-
+const index = () => {
   return (
-    <div className=''>
-      hello
+    <div>
+      <Main />
     </div>
   )
 }
 
-export default Index
+export default index
