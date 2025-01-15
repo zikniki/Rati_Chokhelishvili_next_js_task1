@@ -1,12 +1,11 @@
-"use client"
-import React, { useEffect, useState } from 'react'
+import React from 'react'
 import Main from './organisms/main'
 
 const Index = () => {
 
   return (
     <div className=''>
-      <Main />
+      hello
     </div>
   )
 }
