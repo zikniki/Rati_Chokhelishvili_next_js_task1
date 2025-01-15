@@ -1,0 +1,139 @@
+[
+    {
+        "company": "Photosnap",
+        "position": "Senior Frontend Developer",
+        "level": "Senior",
+        "type": "Full Time",
+        "location": "USA only",
+        "skills": [
+            "Senior",
+            "Frontend",
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    {
+        "company": "Manage",
+        "position": "Fullstack Developer",
+        "level": "Midweight",
+        "type": "Part Time",
+        "location": "Remote",
+        "skills": [
+            "Fullstack",
+            "Midweight",
+            "Python",
+            "React"
+        ]
+    },
+    {
+        "company": "Account",
+        "position": "Junior Frontend Developer",
+        "level": "Junior",
+        "type": "Part Time",
+        "location": "USA only",
+        "skills": [
+            "Frontend",
+            "Junior",
+            "React",
+            "Sass",
+            "JavaScript"
+        ]
+    },
+    {
+        "company": "MyHome",
+        "position": "Junior Frontend Developer",
+        "level": "Junior",
+        "type": "Contract",
+        "location": "USA only",
+        "skills": [
+            "Frontend",
+            "Junior",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    {
+        "company": "Loop Studios",
+        "position": "Software Engineer",
+        "level": "Midweight",
+        "type": "Full Time",
+        "location": "Worldwide",
+        "skills": [
+            "Fullstack",
+            "Midweight",
+            "JavaScript",
+            "Sass",
+            "Ruby"
+        ]
+    },
+    {
+        "company": "Facelt",
+        "position": "Junior Backend Developer",
+        "level": "Junior",
+        "type": "Full Time",
+        "location": "UK only",
+        "skills": [
+            "Backend",
+            "Junior",
+            "Ruby",
+            "RoR"
+        ]
+    },
+    {
+        "company": "Shortly",
+        "position": "Junior Developer",
+        "level": "Junior",
+        "type": "Full Time",
+        "location": "Worldwide",
+        "skills": [
+            "Frontend",
+            "Junior",
+            "HTML",
+            "Sass",
+            "JavaScript"
+        ]
+    },
+    {
+        "company": "Insure",
+        "position": "Junior Frontend Developer",
+        "level": "Junior",
+        "type": "Full Time",
+        "location": "USA only",
+        "skills": [
+            "Frontend",
+            "Junior",
+            "Vue",
+            "JavaScript",
+            "Sass"
+        ]
+    },
+    {
+        "company": "Eyecam Co.",
+        "position": "Full Stack Engineer",
+        "level": "Midweight",
+        "type": "Full Time",
+        "location": "Worldwide",
+        "skills": [
+            "Fullstack",
+            "Midweight",
+            "JavaScript",
+            "Django",
+            "Python"
+        ]
+    },
+    {
+        "company": "Air Filter Co.",
+        "position": "Front-end Developer",
+        "level": "Junior",
+        "type": "Part Time",
+        "location": "Worldwide",
+        "skills": [
+            "Frontend",
+            "Junior",
+            "React",
+            "Sass",
+            "JavaScript"
+        ]
+    }
+]
