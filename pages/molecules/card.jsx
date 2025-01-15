@@ -75,8 +75,8 @@ export default function JobList() {
                             <button
                                 key={skillIndex}
                                 onClick={() => handleSkillClick(skill)}
-                                className="rounded-[4px] text-[#5CA5A5] text-[16px] leading-[24px] tracking-[-0.123px] px-3 hover:bg-[#5CA5A5] hover:text-white"
-                                style={{ backgroundColor: 'rgba(92, 165, 165, 0.1)' }}
+                                className="rounded-[4px] text-[#5CA5A5] bg-[#5CA5A5]/[.1] text-[16px] leading-[24px] tracking-[-0.123px] px-3 hover:bg-[#5CA5A5] hover:text-white"
+
                             >
                                 {skill}
                             </button>
